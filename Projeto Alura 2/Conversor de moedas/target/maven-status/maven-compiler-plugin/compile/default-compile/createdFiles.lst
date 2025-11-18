@@ -1,0 +1,4 @@
+com\gobifernanda\conversor\ConversorService.class
+com\gobifernanda\conversor\ConversorGUI.class
+com\gobifernanda\conversor\Main.class
+com\gobifernanda\conversor\ExchangeApiClient.class
