@@ -1,7 +1,7 @@
 💱 Conversor de Moedas
 
-    Projeto de backend do One Oracle Next Education, que visa o aprendizado de: Java, Orientação a objeto,Consumo de API, entre outras habilidades. 
-    Um simples e eficiente conversor de moedas desenvolvido para facilitar a conversão entre diferentes moedas em tempo real, utilizando taxas atualizadas via API de Câmbio em tempo real.
+Projeto de backend do One Oracle Next Education, que visa o aprendizado de: Java, Orientação a objeto,Consumo de API, entre outras habilidades. 
+Um simples e eficiente conversor de moedas desenvolvido para facilitar a conversão entre diferentes moedas em tempo real, utilizando taxas atualizadas via API de Câmbio em tempo real.
 
 🚀 Funcionalidades
 
@@ -65,3 +65,4 @@ LinkedIn • GitHub
 🙋‍♀️ Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
